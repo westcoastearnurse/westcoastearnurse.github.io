@@ -1,0 +1,4 @@
+Sitemap: https://westcoastearnurseclinic.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: westcoastearnurseclinic.github.io
